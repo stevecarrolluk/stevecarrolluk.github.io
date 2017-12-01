@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.dulwich.testapp" version="8.0.0">
+  
+<name>My Test App</name>
+  
+<description>Test App</description>
+  
+<author email="carrolls@dulwich.org.uk">Steven Carroll</author>
+  
+<preference name="webviewbounce" value="false"/>
+  
+<preference name="detect-data-types" value="false"/>
+  
+<preference name="stay-in-webview" value="true"/>
+  
+<access origin="*" uri="*"/>
+  
+<allow-navigation href="*" />
+</widget>
